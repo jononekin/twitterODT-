@@ -5,6 +5,8 @@
 		<description>Twitter OAuth API</description>
 		<documentationURL>http://apiwiki.twitter.com/Twitter-API-Documentation</documentationURL>
 		<sampleQuery>select * from {table} where id=@id;</sampleQuery>
+		<sampleQuery>URL Pattern; dsdsdsdsds</sampleQuery>
+
 	</meta>
 	<bindings>
 		<select itemPath="" produces="XML">
